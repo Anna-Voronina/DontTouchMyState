@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/131.eccfd14e.chunk.js","mappings":"4JAIA,UAJsB,WACpB,OAAO,yBAAK,iBACb,C","sources":["pages/DashboardPage/DashboardPage.jsx"],"sourcesContent":["const DashboardPage = () => {\n  return <div>DashboardPage</div>;\n};\n\nexport default DashboardPage;\n"],"names":[],"sourceRoot":""}
