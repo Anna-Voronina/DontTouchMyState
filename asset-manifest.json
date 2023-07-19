@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/DontTouchMyState/static/css/main.cd2e038f.css",
-    "main.js": "/DontTouchMyState/static/js/main.3ba1e810.js",
+    "main.js": "/DontTouchMyState/static/js/main.1fce5845.js",
     "static/js/131.eccfd14e.chunk.js": "/DontTouchMyState/static/js/131.eccfd14e.chunk.js",
     "static/js/680.154e9c2e.chunk.js": "/DontTouchMyState/static/js/680.154e9c2e.chunk.js",
     "static/js/49.b7b515c7.chunk.js": "/DontTouchMyState/static/js/49.b7b515c7.chunk.js",
-    "static/js/793.e99f44c4.chunk.js": "/DontTouchMyState/static/js/793.e99f44c4.chunk.js",
-    "static/js/850.d3980657.chunk.js": "/DontTouchMyState/static/js/850.d3980657.chunk.js",
+    "static/js/793.19c55007.chunk.js": "/DontTouchMyState/static/js/793.19c55007.chunk.js",
+    "static/js/598.705b7604.chunk.js": "/DontTouchMyState/static/js/598.705b7604.chunk.js",
     "static/js/568.8318bf0c.chunk.js": "/DontTouchMyState/static/js/568.8318bf0c.chunk.js",
     "static/media/bgLoginPage.png": "/DontTouchMyState/static/media/bgLoginPage.af8734aa18a500ac0b85.png",
     "static/media/GradientRegister.png": "/DontTouchMyState/static/media/GradientRegister.a28fff3105f95e2e7d4e.png",
     "index.html": "/DontTouchMyState/index.html",
     "main.cd2e038f.css.map": "/DontTouchMyState/static/css/main.cd2e038f.css.map",
-    "main.3ba1e810.js.map": "/DontTouchMyState/static/js/main.3ba1e810.js.map",
+    "main.1fce5845.js.map": "/DontTouchMyState/static/js/main.1fce5845.js.map",
     "131.eccfd14e.chunk.js.map": "/DontTouchMyState/static/js/131.eccfd14e.chunk.js.map",
     "680.154e9c2e.chunk.js.map": "/DontTouchMyState/static/js/680.154e9c2e.chunk.js.map",
     "49.b7b515c7.chunk.js.map": "/DontTouchMyState/static/js/49.b7b515c7.chunk.js.map",
-    "793.e99f44c4.chunk.js.map": "/DontTouchMyState/static/js/793.e99f44c4.chunk.js.map",
-    "850.d3980657.chunk.js.map": "/DontTouchMyState/static/js/850.d3980657.chunk.js.map",
+    "793.19c55007.chunk.js.map": "/DontTouchMyState/static/js/793.19c55007.chunk.js.map",
+    "598.705b7604.chunk.js.map": "/DontTouchMyState/static/js/598.705b7604.chunk.js.map",
     "568.8318bf0c.chunk.js.map": "/DontTouchMyState/static/js/568.8318bf0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.3ba1e810.js"
+    "static/js/main.1fce5845.js"
   ]
 }
