@@ -2,14 +2,19 @@ import styled from 'styled-components';
 
 export const StyledAside = styled.aside`
   @media only screen and (min-width: 768px) {
+    width: 480px;
+
+
     display: flex;
     gap: 32px;
-    align-items: baseline;
-    margin-bottom: 20px;
+    height: 214px;
   }
 
   @media only screen and (min-width: 1280px) {
-    flex-direction: column;
+    display: block;
+    /* gap: 32px; */
+
+
     width: 480px;
     height: 100vh;
     margin-bottom: 0;
@@ -27,12 +32,7 @@ export const StyledAside = styled.aside`
   }
 `;
 
-export const StyledWrapper = styled.div`
-  @media only screen and (min-width: 768px) {
-    min-width: 336px;
-  }
-
-  @media only screen and (min-width: 1280px) {
-    min-width: 100%;
-  }
-`;
+export const NavigationTablet = styled.div`
+display: flex;
+flex-direction: column;
+`
