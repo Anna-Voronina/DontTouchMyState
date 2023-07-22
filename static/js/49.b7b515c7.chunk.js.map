@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/49.b7b515c7.chunk.js","mappings":"2JAIA,UAJoB,WAClB,OAAO,yBAAK,eACb,C","sources":["pages/SummaryPage/SummaryPage.jsx"],"sourcesContent":["const SummaryPage = () => {\n  return <div>SummaryPage</div>;\n};\n\nexport default SummaryPage;\n"],"names":[],"sourceRoot":""}
