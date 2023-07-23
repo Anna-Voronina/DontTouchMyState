@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/DontTouchMyState/static/css/main.1a24fdc4.css",
-    "main.js": "/DontTouchMyState/static/js/main.c498bbf6.js",
-    "static/js/695.9c15f170.chunk.js": "/DontTouchMyState/static/js/695.9c15f170.chunk.js",
-    "static/js/434.da77bae8.chunk.js": "/DontTouchMyState/static/js/434.da77bae8.chunk.js",
+    "main.js": "/DontTouchMyState/static/js/main.f36f760c.js",
+    "static/js/695.6db3daa3.chunk.js": "/DontTouchMyState/static/js/695.6db3daa3.chunk.js",
+    "static/js/434.4e03701c.chunk.js": "/DontTouchMyState/static/js/434.4e03701c.chunk.js",
     "static/js/807.4f5dda2b.chunk.js": "/DontTouchMyState/static/js/807.4f5dda2b.chunk.js",
     "static/js/793.c68aadb7.chunk.js": "/DontTouchMyState/static/js/793.c68aadb7.chunk.js",
     "static/js/872.822b0840.chunk.js": "/DontTouchMyState/static/js/872.822b0840.chunk.js",
@@ -34,9 +34,9 @@
     "index.html": "/DontTouchMyState/index.html",
     "static/media/moneyGuardLogo.svg": "/DontTouchMyState/static/media/moneyGuardLogo.dbc52635efdf8219ee1a2f3c5f17f1d2.svg",
     "main.1a24fdc4.css.map": "/DontTouchMyState/static/css/main.1a24fdc4.css.map",
-    "main.c498bbf6.js.map": "/DontTouchMyState/static/js/main.c498bbf6.js.map",
-    "695.9c15f170.chunk.js.map": "/DontTouchMyState/static/js/695.9c15f170.chunk.js.map",
-    "434.da77bae8.chunk.js.map": "/DontTouchMyState/static/js/434.da77bae8.chunk.js.map",
+    "main.f36f760c.js.map": "/DontTouchMyState/static/js/main.f36f760c.js.map",
+    "695.6db3daa3.chunk.js.map": "/DontTouchMyState/static/js/695.6db3daa3.chunk.js.map",
+    "434.4e03701c.chunk.js.map": "/DontTouchMyState/static/js/434.4e03701c.chunk.js.map",
     "807.4f5dda2b.chunk.js.map": "/DontTouchMyState/static/js/807.4f5dda2b.chunk.js.map",
     "793.c68aadb7.chunk.js.map": "/DontTouchMyState/static/js/793.c68aadb7.chunk.js.map",
     "872.822b0840.chunk.js.map": "/DontTouchMyState/static/js/872.822b0840.chunk.js.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.1a24fdc4.css",
-    "static/js/main.c498bbf6.js"
+    "static/js/main.f36f760c.js"
   ]
 }
