@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/DontTouchMyState/static/css/main.1a24fdc4.css",
-    "main.js": "/DontTouchMyState/static/js/main.ec363d79.js",
+    "main.js": "/DontTouchMyState/static/js/main.effa2b8f.js",
     "static/js/37.ce1f3414.chunk.js": "/DontTouchMyState/static/js/37.ce1f3414.chunk.js",
     "static/js/434.b7267ec3.chunk.js": "/DontTouchMyState/static/js/434.b7267ec3.chunk.js",
     "static/js/807.4f5dda2b.chunk.js": "/DontTouchMyState/static/js/807.4f5dda2b.chunk.js",
-    "static/js/793.6c3bd48b.chunk.js": "/DontTouchMyState/static/js/793.6c3bd48b.chunk.js",
+    "static/js/793.578b1ec6.chunk.js": "/DontTouchMyState/static/js/793.578b1ec6.chunk.js",
     "static/js/872.7d39a042.chunk.js": "/DontTouchMyState/static/js/872.7d39a042.chunk.js",
     "static/js/778.42feea19.chunk.js": "/DontTouchMyState/static/js/778.42feea19.chunk.js",
     "static/js/877.39d886fb.chunk.js": "/DontTouchMyState/static/js/877.39d886fb.chunk.js",
@@ -40,11 +40,11 @@
     "index.html": "/DontTouchMyState/index.html",
     "static/media/moneyGuardLogo.svg": "/DontTouchMyState/static/media/moneyGuardLogo.dbc52635efdf8219ee1a2f3c5f17f1d2.svg",
     "main.1a24fdc4.css.map": "/DontTouchMyState/static/css/main.1a24fdc4.css.map",
-    "main.ec363d79.js.map": "/DontTouchMyState/static/js/main.ec363d79.js.map",
+    "main.effa2b8f.js.map": "/DontTouchMyState/static/js/main.effa2b8f.js.map",
     "37.ce1f3414.chunk.js.map": "/DontTouchMyState/static/js/37.ce1f3414.chunk.js.map",
     "434.b7267ec3.chunk.js.map": "/DontTouchMyState/static/js/434.b7267ec3.chunk.js.map",
     "807.4f5dda2b.chunk.js.map": "/DontTouchMyState/static/js/807.4f5dda2b.chunk.js.map",
-    "793.6c3bd48b.chunk.js.map": "/DontTouchMyState/static/js/793.6c3bd48b.chunk.js.map",
+    "793.578b1ec6.chunk.js.map": "/DontTouchMyState/static/js/793.578b1ec6.chunk.js.map",
     "872.7d39a042.chunk.js.map": "/DontTouchMyState/static/js/872.7d39a042.chunk.js.map",
     "778.42feea19.chunk.js.map": "/DontTouchMyState/static/js/778.42feea19.chunk.js.map",
     "877.39d886fb.chunk.js.map": "/DontTouchMyState/static/js/877.39d886fb.chunk.js.map",
@@ -61,6 +61,6 @@
   },
   "entrypoints": [
     "static/css/main.1a24fdc4.css",
-    "static/js/main.ec363d79.js"
+    "static/js/main.effa2b8f.js"
   ]
 }
