@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/DontTouchMyState/static/css/main.1a24fdc4.css",
-    "main.js": "/DontTouchMyState/static/js/main.96337877.js",
+    "main.js": "/DontTouchMyState/static/js/main.2787af32.js",
     "static/js/695.be492cdb.chunk.js": "/DontTouchMyState/static/js/695.be492cdb.chunk.js",
     "static/js/434.fa85f25a.chunk.js": "/DontTouchMyState/static/js/434.fa85f25a.chunk.js",
-    "static/js/807.09dcb202.chunk.js": "/DontTouchMyState/static/js/807.09dcb202.chunk.js",
+    "static/js/807.4f5dda2b.chunk.js": "/DontTouchMyState/static/js/807.4f5dda2b.chunk.js",
     "static/js/793.2b6cfaf5.chunk.js": "/DontTouchMyState/static/js/793.2b6cfaf5.chunk.js",
     "static/js/872.7d39a042.chunk.js": "/DontTouchMyState/static/js/872.7d39a042.chunk.js",
     "static/js/778.1ae6825b.chunk.js": "/DontTouchMyState/static/js/778.1ae6825b.chunk.js",
@@ -40,10 +40,10 @@
     "index.html": "/DontTouchMyState/index.html",
     "static/media/moneyGuardLogo.svg": "/DontTouchMyState/static/media/moneyGuardLogo.dbc52635efdf8219ee1a2f3c5f17f1d2.svg",
     "main.1a24fdc4.css.map": "/DontTouchMyState/static/css/main.1a24fdc4.css.map",
-    "main.96337877.js.map": "/DontTouchMyState/static/js/main.96337877.js.map",
+    "main.2787af32.js.map": "/DontTouchMyState/static/js/main.2787af32.js.map",
     "695.be492cdb.chunk.js.map": "/DontTouchMyState/static/js/695.be492cdb.chunk.js.map",
     "434.fa85f25a.chunk.js.map": "/DontTouchMyState/static/js/434.fa85f25a.chunk.js.map",
-    "807.09dcb202.chunk.js.map": "/DontTouchMyState/static/js/807.09dcb202.chunk.js.map",
+    "807.4f5dda2b.chunk.js.map": "/DontTouchMyState/static/js/807.4f5dda2b.chunk.js.map",
     "793.2b6cfaf5.chunk.js.map": "/DontTouchMyState/static/js/793.2b6cfaf5.chunk.js.map",
     "872.7d39a042.chunk.js.map": "/DontTouchMyState/static/js/872.7d39a042.chunk.js.map",
     "778.1ae6825b.chunk.js.map": "/DontTouchMyState/static/js/778.1ae6825b.chunk.js.map",
@@ -61,6 +61,6 @@
   },
   "entrypoints": [
     "static/css/main.1a24fdc4.css",
-    "static/js/main.96337877.js"
+    "static/js/main.2787af32.js"
   ]
 }
